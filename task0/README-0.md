@@ -1,1 +1,11 @@
 # Python-Tasks
+![image1](https://user-images.githubusercontent.com/86980849/125128431-b7860880-e106-11eb-9b25-a6d1475589bb.png)
+![image2](https://user-images.githubusercontent.com/86980849/125128437-b81e9f00-e106-11eb-8bf2-4fc78c98ceee.png)
+![image3](https://user-images.githubusercontent.com/86980849/125128443-b94fcc00-e106-11eb-817e-4d50e2296d93.png)
+![image4](https://user-images.githubusercontent.com/86980849/125128450-ba80f900-e106-11eb-9c01-0529ec821201.png)
+![image5](https://user-images.githubusercontent.com/86980849/125128454-bb198f80-e106-11eb-90a4-8af3ad5993a9.png)
+![image6](https://user-images.githubusercontent.com/86980849/125128459-bc4abc80-e106-11eb-8710-b02db5d64502.png)
+![text_code_1](https://user-images.githubusercontent.com/86980849/125128464-bead1680-e106-11eb-9243-02feaab2ccac.png)
+![text_code_2](https://user-images.githubusercontent.com/86980849/125128475-c1a80700-e106-11eb-8a44-6e32c81cfa57.png)
+![text_code_3](https://user-images.githubusercontent.com/86980849/125128481-c2d93400-e106-11eb-91eb-a8334521d631.png)
+![opera_5TTjeZXEpC](https://user-images.githubusercontent.com/86980849/125128484-c40a6100-e106-11eb-81f6-cdc7959c1504.png)
