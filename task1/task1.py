@@ -4,7 +4,7 @@
 # Знайти максимальне значення в масиві чисел, 
 # а всі інші числа піднести до степеню по їх індексу, та записати в інший масив.
 import re 
-array= input("\nВведіть початковий масив  ")
+array= input("\nВведіть початковий масив  - ")
 word = ''.join([x for x in array if not x.isdigit()])
 number = re.findall(r'\d+', array) 
 number = [int(i) for i in number] 
@@ -12,11 +12,12 @@ print("\nМасив з  слів  -", word)
 print("\nМасив  з чисел -", number)
 
 Uppword =''.join(word[0].upper() + word[1:-1] + word[-1:].upper() for word in word.split())
-print ("Масив з слів , з великими літерами ", Uppword )
-
-print ("Максимальний елемент масиву - ", max (number))
-
-number.remove(max(number))
-index_number = [number[i]**i for i in range(0,len(number))] 
-print("Масив піднесений до степеню по їх індексу:",index_number)
-print("\n")
+print ("Масив з слів , з великими літерами  - ", Uppword )
+if not number: 
+    print ("Масив чисел пустий ")
+else :
+    print ("Максимальний елемент масиву - ", max (number))
+    number.remove(max(number))
+    index_number = [number[i]**i for i in range(0,len(number))] 
+    print("Масив піднесений до степеню по їх індексу - ",index_number)
+    print("\n")
